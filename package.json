@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/arqex/react-panresponder-web#readme",
   "dependencies": {
-    "react-dom": "16.12",
+    "react-dom": "16.12"
   },
   "devDependencies": {
     "bili": "^3.4.2"
